@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Backup\\Documents\\WintecCl\\BITSemester1\\DataModeling\\DataModelingAssessments\\Assessment3\\CybersecuritySolutions2\\CybersecuritySolutions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A94C02E0-2767-4033-B7A5-224693275EB9}|CybersecuritySolutions\\CybersecuritySolutions.vbproj|d:\\backup\\documents\\winteccl\\bitsemester1\\datamodeling\\datamodelingassessments\\assessment3\\cybersecuritysolutions2\\cybersecuritysolutions\\cybersecuritysolutions\\clients.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A94C02E0-2767-4033-B7A5-224693275EB9}|CybersecuritySolutions\\CybersecuritySolutions.vbproj|solutionrelative:cybersecuritysolutions\\clients.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94C02E0-2767-4033-B7A5-224693275EB9}|CybersecuritySolutions\\CybersecuritySolutions.vbproj|d:\\backup\\documents\\winteccl\\bitsemester1\\datamodeling\\datamodelingassessments\\assessment3\\cybersecuritysolutions2\\cybersecuritysolutions\\cybersecuritysolutions\\clients.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A94C02E0-2767-4033-B7A5-224693275EB9}|CybersecuritySolutions\\CybersecuritySolutions.vbproj|solutionrelative:cybersecuritysolutions\\clients.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94C02E0-2767-4033-B7A5-224693275EB9}|CybersecuritySolutions\\CybersecuritySolutions.vbproj|d:\\backup\\documents\\winteccl\\bitsemester1\\datamodeling\\datamodelingassessments\\assessment3\\cybersecuritysolutions2\\cybersecuritysolutions\\cybersecuritysolutions\\accounts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A94C02E0-2767-4033-B7A5-224693275EB9}|CybersecuritySolutions\\CybersecuritySolutions.vbproj|solutionrelative:cybersecuritysolutions\\accounts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94C02E0-2767-4033-B7A5-224693275EB9}|CybersecuritySolutions\\CybersecuritySolutions.vbproj|d:\\backup\\documents\\winteccl\\bitsemester1\\datamodeling\\datamodelingassessments\\assessment3\\cybersecuritysolutions2\\cybersecuritysolutions\\cybersecuritysolutions\\accounts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A94C02E0-2767-4033-B7A5-224693275EB9}|CybersecuritySolutions\\CybersecuritySolutions.vbproj|solutionrelative:cybersecuritysolutions\\accounts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Clients.vb [Design]",
+              "DocumentMoniker": "D:\\Backup\\Documents\\WintecCl\\BITSemester1\\DataModeling\\DataModelingAssessments\\Assessment3\\CybersecuritySolutions2\\CybersecuritySolutions\\CybersecuritySolutions\\Clients.vb",
+              "RelativeDocumentMoniker": "CybersecuritySolutions\\Clients.vb",
+              "ToolTip": "D:\\Backup\\Documents\\WintecCl\\BITSemester1\\DataModeling\\DataModelingAssessments\\Assessment3\\CybersecuritySolutions2\\CybersecuritySolutions\\CybersecuritySolutions\\Clients.vb [Design]",
+              "RelativeToolTip": "CybersecuritySolutions\\Clients.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-09T00:11:20.966Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clients.vb",
+              "DocumentMoniker": "D:\\Backup\\Documents\\WintecCl\\BITSemester1\\DataModeling\\DataModelingAssessments\\Assessment3\\CybersecuritySolutions2\\CybersecuritySolutions\\CybersecuritySolutions\\Clients.vb",
+              "RelativeDocumentMoniker": "CybersecuritySolutions\\Clients.vb",
+              "ToolTip": "D:\\Backup\\Documents\\WintecCl\\BITSemester1\\DataModeling\\DataModelingAssessments\\Assessment3\\CybersecuritySolutions2\\CybersecuritySolutions\\CybersecuritySolutions\\Clients.vb",
+              "RelativeToolTip": "CybersecuritySolutions\\Clients.vb",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAEwHAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-09T00:12:01.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Accounts.vb",
+              "DocumentMoniker": "D:\\Backup\\Documents\\WintecCl\\BITSemester1\\DataModeling\\DataModelingAssessments\\Assessment3\\CybersecuritySolutions2\\CybersecuritySolutions\\CybersecuritySolutions\\Accounts.vb",
+              "RelativeDocumentMoniker": "CybersecuritySolutions\\Accounts.vb",
+              "ToolTip": "D:\\Backup\\Documents\\WintecCl\\BITSemester1\\DataModeling\\DataModelingAssessments\\Assessment3\\CybersecuritySolutions2\\CybersecuritySolutions\\CybersecuritySolutions\\Accounts.vb",
+              "RelativeToolTip": "CybersecuritySolutions\\Accounts.vb",
+              "ViewState": "AgIAAGEBAAAAAAAAAAAYwHIBAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-03T09:56:32.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Accounts.vb [Design]",
+              "DocumentMoniker": "D:\\Backup\\Documents\\WintecCl\\BITSemester1\\DataModeling\\DataModelingAssessments\\Assessment3\\CybersecuritySolutions2\\CybersecuritySolutions\\CybersecuritySolutions\\Accounts.vb",
+              "RelativeDocumentMoniker": "CybersecuritySolutions\\Accounts.vb",
+              "ToolTip": "D:\\Backup\\Documents\\WintecCl\\BITSemester1\\DataModeling\\DataModelingAssessments\\Assessment3\\CybersecuritySolutions2\\CybersecuritySolutions\\CybersecuritySolutions\\Accounts.vb [Design]",
+              "RelativeToolTip": "CybersecuritySolutions\\Accounts.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-03T09:56:29.921Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

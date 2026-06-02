@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Accounts.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Clients.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CybersecurityIncidents.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IncidentTypes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ServicesProvided.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SubAccounts.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Subscriptions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewCybersecurityIncidents.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
